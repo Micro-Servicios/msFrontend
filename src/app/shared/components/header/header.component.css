@@ -15,6 +15,11 @@ mat-drawer-container {
     width: 200px;
     height: 15%;
 }
+.central{
+  text-align:center;
+  margin:auto;
+  font-size: 50px;
+}
 /* tabla */
 .table_component_container {
     padding: 4%;
@@ -26,7 +31,9 @@ mat-drawer-container {
   }
   .table_container {
     position: relative;
+    padding: 40px;
     height: 400px;
+    width: 800px;
     overflow: auto;
   }
   
